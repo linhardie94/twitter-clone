@@ -1,0 +1,4 @@
+MONGO=mongodb+srv://linhardie:Bellowsfalls14@twitter-cluster.lgjaom6.mongodb.net/?retryWrites=true&w=majority
+JWT=blahblahblacksheep
+GENERATE_SOURCEMAP=false
+
